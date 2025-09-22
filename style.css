@@ -236,6 +236,16 @@ section {
     font-size: 1rem;
 }
 
+.warning {
+    font-size: 0.9em;
+    color: #856404; /* Amarelo escuro */
+    background-color: #fff3cd;
+    border: 1px solid #ffeeba;
+    padding: 0.5em;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
 .card-links {
     margin-top: auto;
     display: flex;
